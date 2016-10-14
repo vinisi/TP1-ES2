@@ -83,23 +83,29 @@ Versão 7
 Versão 6
 --------
 
-	Foi lançada no dia 26/03/2012 e trouxe suporte a linguagem PERL, suporte a novos plugins, melhoria de desempenho ao carregar arquivos grandes e a adição de um mapa de características e correção de bugs. Mais informações podem ser encontradas neste link
-https://notepad-plus-plus.org/download/v6.0.html
+	
+
+    Foi lançada no dia 26/03/2012 e trouxe suporte a linguagem PERL, suporte a novos plugins, melhoria de desempenho ao carregar arquivos grandes e a adição de um mapa de características e correção de bugs. Mais informações podem ser encontradas neste link
+
+[https://notepad-plus-plus.org/download/v6.0.html](https://notepad-plus-plus.org/download/v6.0.html)
 
 Versão 5
 --------
 
-Foi lançada no dia 06/07/2008 e trouxe diversas melhorias tais como, adição de ferramentas para deletar e renomear arquivos, correção de crash ao abrir documentos anteriores a 1970, correção de bug do comando de go to line, adição de novos plugins e correção de bugs. Mais informações podem ser encontradas neste link
-https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01
+    Foi lançada no dia 06/07/2008 e trouxe diversas melhorias tais como, adição de ferramentas para deletar e renomear arquivos, correção de crash ao abrir documentos anteriores a 1970, correção de bug do comando de go to line, adição de novos plugins e correção de bugs. Mais informações podem ser encontradas neste link
+
+[https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01](https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01)
 
 	
 
 Versão 4, Versão 3, Versão 2, Versão 1
 --------------------------------------
 
-Desde a versão 3.1, Notepad++ tem a capacidade de extensão através do sistema de plugins. No mais, não foram encontradas muitas documentações sobre estas versões. No github, não há registro destas versões, possivelmente por serem muito antigas e anteriores ao próprio github. No site oficial do Notepad++, há somente a data de release destas versões, mas também não há nenhuma informação sobre o que foi feito em cada uma delas.
+    Desde a versão 3.1, Notepad++ tem a capacidade de extensão através do sistema de plugins. No mais, não foram encontradas muitas documentações sobre estas versões. No github, não há registro destas versões, possivelmente por serem muito antigas e anteriores ao próprio github. No site oficial do Notepad++, há somente a data de release destas versões, mas também não há nenhuma informação sobre o que foi feito em cada uma delas.
+    
+    Mais detalhes sobre as releases, em particular as mais antigas, pode ser vista no seguinte link:
 
-Mais detalhes sobre as releases, em particular as mais antigas, pode ser vista no seguinte link: http://docs.notepad-plus-plus.org/index.php/Releases 
+ [http://docs.notepad-plus-plus.org/index.php/Releases](http://docs.notepad-plus-plus.org/index.php/Releases) 
 		
 
 	
