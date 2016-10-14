@@ -74,7 +74,10 @@ Muito do sucesso do notepad++ se dá pela fácil utilização e ampla aceitaçã
 Versão 7
 --------
 
-	Foi lançada no dia 22/09/2016 e trouxe suporte a plataforma 64 bits, uma grande melhoria que certamente irá beneficiar muito a robustez do software. Além disto foram ajustadas vulnerabilidades encontradas no instalador do programa, foram feitas melhorias no sistema de auto atualização do sistema, correção de bugs e muitas outras coisas somando um total de 19 features e correção de bugs. Mais informações podem ser encontradas no link
+	
+
+    Foi lançada no dia 22/09/2016 e trouxe suporte a plataforma 64 bits, uma grande melhoria que certamente irá beneficiar muito a robustez do software. Além disto foram ajustadas vulnerabilidades encontradas no instalador do programa, foram feitas melhorias no sistema de auto atualização do sistema, correção de bugs e muitas outras coisas somando um total de 19 features e correção de bugs. Mais informações podem ser encontradas no link
+
 https://notepad-plus-plus.org/download/v7.html
 
 Versão 6
