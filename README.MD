@@ -1,53 +1,33 @@
 Introdução
 ----------
 
-> Notepad++ é um editor de texto de software livre cujo código fonte é
-> aberto sob a licença GPL, é baseado no controle de edição Scintilla e
-> escrito em C++ usando API WIN32 e STL, garantindo uma maior velocidade
-> de execução e um tamanho reduzido do programa. Foi construído para ser
-> uma ferramenta de apoio para ajudar na edição de arquivos, automatizar
-> tarefas consideradas repetitivas e acelerar o desenvolvimento, pois
-> ele pode gravar algumas ações do usuário ao executar uma edição de um
-> arquivo para que o usuário não tenha que fazer a sequência novamente.
-> É capaz de diferenciar diversas linguagens de programação, sendo assim
-> útil pois é possível que uma palavra reservada seja interpretada com
-> uma cor diferente, por exemplo, além de diferenciar os comentários.
-> Para isso, por padrão, caso o documento seja um arquivo, o sistema irá
-> olhar sua extensão; porém, caso a linguagem não seja reconhecida
-> automaticamente, é possível escolhê-la manualmente. Também é possível
-> definir o seu próprio idioma, além de instalar plugins para aumentar a
-> funcionalidade de Notepad++. Os plugins, no entanto, devem estar na
-> mesma versão do software. Atualmente reconhece arquivos com extensão
-> php, c, cpp, cs, objc, d, java, rc, html, xml, makefile, pascal,
-> batch, ini, nfo, asp, sql, vb, javascript, css, perl, python, lua,
-> tex, cobol, fortran, bash, actionscript, nsis, tcl, lisp, scheme, asm,
-> diff, props, postscript, ruby, smalltalk, vhdl, kix, autoit, Gui4Cli,
-> powershell, caml, ada, verilog, matlab, haskell, inno, cmake, yaml,r,
-> jsp e outras.
-> 
+<i class="icon-provider-npp"></i> **Notepad++ é um editor de texto de software livre** cujo código fonte é aberto sob a licença GPL, é baseado no controle de edição Scintilla e escrito em C++ usando API WIN32 e STL, garantindo uma maior velocidade de execução e um tamanho reduzido do programa. Foi construído para ser uma ferramenta de apoio para ajudar na edição de arquivos, automatizar tarefas consideradas repetitivas e acelerar o desenvolvimento, pois ele pode gravar algumas ações do usuário ao executar uma edição de um arquivo para que o usuário não tenha que fazer a sequência novamente.
+É capaz de diferenciar diversas linguagens de programação, sendo assim útil pois é possível que uma palavra reservada seja interpretada com uma cor diferente, por exemplo, além de diferenciar os comentários. Para isso, por padrão, caso o documento seja um arquivo, o sistema irá olhar sua extensão; porém, caso a linguagem não seja reconhecida automaticamente, é possível escolhê-la manualmente. Também é possível definir o seu próprio idioma, além de instalar plugins para aumentar a funcionalidade de Notepad++. Os plugins, no entanto, devem estar na mesma versão do software.
+Atualmente reconhece arquivos com extensão php, c, cpp, cs, objc, d, java, rc, html, xml, makefile, pascal, batch, ini, nfo, asp, sql, vb, javascript, css, perl, python, lua, tex, cobol, fortran, bash, actionscript, nsis, tcl, lisp, scheme, asm, diff, props, postscript, ruby, smalltalk, vhdl, kix, autoit, Gui4Cli, powershell, caml, ada, verilog, matlab, haskell, inno, cmake, yaml,r, jsp e outras.
 
-    >      Equipe de desenvolvimento
-    >     No site principal do Notepad++ temos uma lista de desenvolvedores dentre os quais podemos citar Don Ho como autor e:
-
- 1. Jens Lorenz 
- 2. Vitaliy Dovgan 
- 3. Harry 
- 4. Kyle Fleming 
- 5. Y N 
- 6. Thell Fowler      
- 7. Christian Cuvier 
- 8. Jocelyn Legault 
- 9. Dave Brotherstone 
- 10. Sin Thesis Jörn  
- 11. Gruël François-R Boyer 
- 12. Andreas Jonsson 
- 13. Ivan Radić (aka Loreia)
- 14. Damien  Gérard
-
+ Equipe de desenvolvimento
+No site principal do Notepad++ temos uma lista de desenvolvedores dentre os quais podemos citar Don Ho como autor e:
+Jens Lorenz
+Vitaliy Dovgan
+Harry
+Kyle Fleming
+Y N
+Thell Fowler
+Christian Cuvier
+Jocelyn Legault
+Dave Brotherstone
+Sin Thesis
+Jörn Gruël
+François-R Boyer
+Andreas Jonsson
+Ivan Radić (aka Loreia)
+Damien Gérard
 É possível também verificar em https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors uma lista de 91 contribuidores para o funcionamento do software.
 
 
- Evolução do sistema 
+Evolução do sistema
+-------------------
+
 Foram registrados um total de 137 releases até o momento, porém não é muito claro a partir de qual versão a equipe de desenvolvimento migrou o sistema para o repositório do github. O tempo de liberação de um novo release é de cerca de um mês, mas não há um dia fixo para isto. O principal responsável pela liberação do release é o usuário Don HO.
 O gráfico abaixo mostra a quantidade de contribuidores, desde agosto de 2007 até os dias de hoje, e percebe-se que o sistema obteve um aumento muito grande de contribuição nos últimos anos:
 Muito do sucesso do notepad++ se dá pela fácil utilização e ampla aceitação de vários usuários, bem como a ajuda que o github proporcionou ao projeto, agora este pode ser mantido e evoluído por pessoas de todo o mundo.
@@ -60,16 +40,28 @@ A quantidade de commits está expressa em relação ao horário em que é feito 
 
 
 Versão 7
+--------
+
 	Foi lançada no dia 22/09/2016 e trouxe suporte a plataforma 64 bits, uma grande melhoria que certamente irá beneficiar muito a robustez do software. Além disto foram ajustadas vulnerabilidades encontradas no instalador do programa, foram feitas melhorias no sistema de auto atualização do sistema, correção de bugs e muitas outras coisas somando um total de 19 features e correção de bugs. Mais informações podem ser encontradas no link
 https://notepad-plus-plus.org/download/v7.html
+
 Versão 6
+--------
+
 	Foi lançada no dia 26/03/2012 e trouxe suporte a linguagem PERL, suporte a novos plugins, melhoria de desempenho ao carregar arquivos grandes e a adição de um mapa de características e correção de bugs. Mais informações podem ser encontradas neste link
 https://notepad-plus-plus.org/download/v6.0.html
+
 Versão 5
+--------
+
 Foi lançada no dia 06/07/2008 e trouxe diversas melhorias tais como, adição de ferramentas para deletar e renomear arquivos, correção de crash ao abrir documentos anteriores a 1970, correção de bug do comando de go to line, adição de novos plugins e correção de bugs. Mais informações podem ser encontradas neste link
 https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01
 
-	Versão 4, Versão 3, Versão 2, Versão 1
+	
+
+Versão 4, Versão 3, Versão 2, Versão 1
+--------------------------------------
+
 Desde a versão 3.1, Notepad++ tem a capacidade de extensão através do sistema de plugins. No mais, não foram encontradas muitas documentações sobre estas versões. No github, não há registro destas versões, possivelmente por serem muito antigas e anteriores ao próprio github. No site oficial do Notepad++, há somente a data de release destas versões, mas também não há nenhuma informação sobre o que foi feito em cada uma delas.
 
 Mais detalhes sobre as releases, em particular as mais antigas, pode ser vista no seguinte link: http://docs.notepad-plus-plus.org/index.php/Releases 
@@ -77,7 +69,9 @@ Mais detalhes sobre as releases, em particular as mais antigas, pode ser vista n
 
 	
 
- Características de desenvolvimento
+Características de desenvolvimento
+----------------------------------
+
 Syntax Highlighting e Syntax Folding
 
 Característica de um editor de texto que apresenta o texto em uma formatação específica, facilitando a escrita em linguagens estruturadas do tipo programação ou marcação pois estruturas e erros de sintaxe são facilmente distinguidos.
@@ -95,28 +89,20 @@ PCRE (Perl Compatible Regular Expression) Search/Replace
 Biblioteca contendo um conjunto de funções que implementam padrão de correspondência de expressão regular inspirada na interface externa Perl. É um destaque de sintaxe poderosa e flexível pois possui sua própria API nativa, bem como um conjunto de funções de mensagens publicitárias que correspondem à expressão regular POSIX API. É uma biblioteca gratuita mesmo que o desenvolvedor a use para a construção de um software pago. Foi inicialmente descrita para o Emim MTA (sistema de transferência de mensagem para uso em sistemas Unix conectados a internet); sendo agora usado agora por diversos códigos de código aberto além do Notepad++ como Apache , PHP , KDE , Postfix , Analog , e Nmap. Existem duas versões principais da biblioteca PCRE. A versão mais recente foi lançada em 2015 e está na versão 10.22. A biblioteca PCRE original, lançado originalmente em 1997, está na versão 8.39, e o conjunto de API e funcionalidade são estáveis e futuros lançamentos serão apenas para correções de bugs.
 
 Interface personalizável
+
 Interface minimalista
 
 
 Guia com botão fechar
 
-
 Guia Multi linha
-
-
 
 Abas nas verticais
 
-
-
 Lista de documentos verticais alinhados a esquerda
-
-
 
 Mapa do documento
 Informa para o usuário onde está no código, a imagem pode ser visualizada abaixo
-
-
 
 AutoComplete
 Provê sugestões enquanto o usuário está digitando, auxiliando e provendo agilidade ao desenvolvimento.
@@ -128,11 +114,18 @@ WYSIWYG
 WYSIWYG é uma sigla em inglês formada pelas iniciais da expressão “What You See Is What You Get” e quer dizer “O que você vê é o que você obtém”. O termo é usado para classificar ferramentas de edição e desenvolvimento que permitem visualizar, em tempo real, exatamente aquilo que será publicado ou impresso.
 
 Suporta ambientes multi-idioma 
+Bookmark
+Gravação e reprodução de macro
+Lançamento com diferentes argumentos, vide imagem abaixo:
 
 
 
 
- Arquitetura
+
+
+Arquitetura
+-----------
+
 Notepad++ é uma aplicação gráfica que depende de controles. Controles são blocos elementares em uma interface gráfica, tais como barras de rolamento, campos de texto, botões e muitos outros.
 É importante ressaltar que Notepad++ é uma aplicação nativa para Windows, especialmente as edições de 32 bits. Existem versões de 64 bits do programa, mas muitos dos plugins existentes ainda não estão disponíveis nestas versões. O autor considerou reconstruir o programa com wxWidget para que fosse possível rodá-lo nas plataformas MacOS X e Linux, mas teve que desistir da ideia devido ao fato da arquitetura e codificação do Notepad++ estarem fortemente acopladas a como o Windows funciona, em particular a API Win32.
 A forma mais simples de rodar o programa em outro sistema operacional é usando máquina virtual, como VMware, ou emulador, como Wine. A outra alternativa, é reescrever o programa no sistema operacional não-Windows em questão, o que é teoricamente possível mas não é trivial, pois exigiria milhares de horas de programação, refatoração e testes.
@@ -156,17 +149,15 @@ Classe simples que contem uma cor esperada. Representada internamente como um ú
 Font
 Possui um identificador de fonte específico de cada plataforma - HFONT para Windows, PangoFontDescription* para GTK+.
 Surface
-Surface é uma abstração sobre o conceito de cada plataforma dis an abstraction over each platform's concept of somewhere that graphical drawing operations can be done. It may wrap an already created drawing place such as a window or be used to create a bitmap that can be drawn into and later copied onto another surface. On Windows it wraps a HDC and possibly a HBITMAP. On GTK+ it wraps a cairo_surface_t*. Other platform specific objects are created (and correctly destroyed) whenever required to perform drawing actions.
-Drawing operations provided include drawing filled and unfilled polygons, lines, rectangles, ellipses and text. The height and width of text as well as other details can be measured. Operations can be clipped to a rectangle. Most of the calls are stateless with all parameters being passed at each call. The exception to this is line drawing which is performed by calling MoveTo and then LineTo.
+Surface é uma abstração sobre o conceito de cada plataforma de um lugar onde operações de desenhos gráficos podem ser feitos. Dentre as operações de desenhos fornecidas estão incluídas polígonos preenchidos e não-preenchidos, linhas, retângulos, elipses e texto. Altura e largura de texto e outros detalhes podem ser medidos.
 Window
-Window acts as a proxy to a platform window allowing operations such as showing, moving, redrawing, and destroying to be performed. It contains a platform specific window identifier - HWND for Windows, GtkWidget* for GTK+.
+Window permite a execução de operações como exibir, mover, redesenhar e eliminar. Contém um identificador de janela específico para cada plataforma - HWND para Windows, GtkWidget* para GTK+.
 ListBox
-ListBox is a subclass of Window and acts as a proxy to a platform listbox adding methods for operations such as adding, retrieving, and selecting items.
+ListBox é uma subclasse de Window e oferece métodos para operações tais como adição, recuperação e seleção de itens.
 Menu
-Menu is a small helper class for constructing popup menus. It contains the platform specific menu identifier - HMENU for Windows, GtkMenu* for GTK+. Most of the work in constructing menus requires access to platform events and so is done in the Platform Events and API layer.
+Menu é uma pequena classe para construir menus de popup. Contém o identificador de menu específico de cada plataforma - HMENU para Windows, GtkMenu* para GTK+.
 Platform
-The Platform class is used to access the facilities of the platform. System wide parameters such as double click speed and chrome colour are available from Platform. Utility functions such as DebugPrintf are also available from Platform.
-
+A classe Platform é usada para acessar as funcionalidades da plataforma.
 Código central 
 
 A porção do código independente de plataforma. É composta pelasclasses pimárias CellBuffer, ContractionState, Document, Editor, Indicator, LineMarker, Style, ViewStyle, KeyMap, ScintillaBase, CallTip e AutoComplete.
