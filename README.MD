@@ -76,7 +76,9 @@ Versão 7
 
 	
 
-    Foi lançada no dia 22/09/2016 e trouxe suporte a plataforma 64 bits, uma grande melhoria que certamente irá beneficiar muito a robustez do software. Além disto foram ajustadas vulnerabilidades encontradas no instalador do programa, foram feitas melhorias no sistema de auto atualização do sistema, correção de bugs e muitas outras coisas somando um total de 19 features e correção de bugs. Mais informações podem ser encontradas no link
+    Foi lançada no dia 22/09/2016 e trouxe suporte a plataforma 64 bits, uma grande melhoria que certamente irá beneficiar muito a robustez do software. Além disto foram ajustadas vulnerabilidades encontradas no instalador do programa, foram feitas melhorias no sistema de auto atualização do sistema, correção de bugs e muitas outras coisas somando um total de 19 features e correção de bugs. 
+    
+    Mais informações podem ser encontradas no link
 
 [https://notepad-plus-plus.org/download/v7.html](https://notepad-plus-plus.org/download/v7.html)
 
@@ -86,6 +88,7 @@ Versão 6
 	
 
     Foi lançada no dia 26/03/2012 e trouxe suporte a linguagem PERL, suporte a novos plugins, melhoria de desempenho ao carregar arquivos grandes e a adição de um mapa de características e correção de bugs. 
+   
    Mais informações podem ser encontradas neste link
 
 [https://notepad-plus-plus.org/download/v6.0.html](https://notepad-plus-plus.org/download/v6.0.html)
@@ -94,7 +97,8 @@ Versão 5
 --------
 
     Foi lançada no dia 06/07/2008 e trouxe diversas melhorias tais como, adição de ferramentas para deletar e renomear arquivos, correção de crash ao abrir documentos anteriores a 1970, correção de bug do comando de go to line, adição de novos plugins e correção de bugs. 
- Mais informações podem ser encontradas neste link
+
+	Mais informações podem ser encontradas neste link
 
 [https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01](https://github.com/notepad-plus-plus/notepad-plus-plus/commit/0de0984d9a70b927d1d14144606d7767b9bcab01)
 
