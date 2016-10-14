@@ -1,27 +1,39 @@
 Introdução
 ----------
 
-<i class="icon-provider-npp"></i> **Notepad++ é um editor de texto de software livre** cujo código fonte é aberto sob a licença GPL, é baseado no controle de edição Scintilla e escrito em C++ usando API WIN32 e STL, garantindo uma maior velocidade de execução e um tamanho reduzido do programa. Foi construído para ser uma ferramenta de apoio para ajudar na edição de arquivos, automatizar tarefas consideradas repetitivas e acelerar o desenvolvimento, pois ele pode gravar algumas ações do usuário ao executar uma edição de um arquivo para que o usuário não tenha que fazer a sequência novamente.
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/e/ef/Notepad_plus_plus_small.png) **Notepad++ é um editor de texto de software livre** cujo código fonte é aberto sob a licença GPL, é baseado no controle de edição Scintilla e *escrito em C++ usando API WIN32 e STL*, garantindo uma maior velocidade de execução e um tamanho reduzido do programa. Foi construído para ser uma ferramenta de apoio para ajudar na edição de arquivos, automatizar tarefas consideradas repetitivas e acelerar o desenvolvimento, pois ele pode gravar algumas ações do usuário ao executar uma edição de um arquivo para que o usuário não tenha que fazer a sequência novamente.
 É capaz de diferenciar diversas linguagens de programação, sendo assim útil pois é possível que uma palavra reservada seja interpretada com uma cor diferente, por exemplo, além de diferenciar os comentários. Para isso, por padrão, caso o documento seja um arquivo, o sistema irá olhar sua extensão; porém, caso a linguagem não seja reconhecida automaticamente, é possível escolhê-la manualmente. Também é possível definir o seu próprio idioma, além de instalar plugins para aumentar a funcionalidade de Notepad++. Os plugins, no entanto, devem estar na mesma versão do software.
-Atualmente reconhece arquivos com extensão php, c, cpp, cs, objc, d, java, rc, html, xml, makefile, pascal, batch, ini, nfo, asp, sql, vb, javascript, css, perl, python, lua, tex, cobol, fortran, bash, actionscript, nsis, tcl, lisp, scheme, asm, diff, props, postscript, ruby, smalltalk, vhdl, kix, autoit, Gui4Cli, powershell, caml, ada, verilog, matlab, haskell, inno, cmake, yaml,r, jsp e outras.
 
- Equipe de desenvolvimento
-No site principal do Notepad++ temos uma lista de desenvolvedores dentre os quais podemos citar Don Ho como autor e:
-Jens Lorenz
-Vitaliy Dovgan
-Harry
-Kyle Fleming
-Y N
-Thell Fowler
-Christian Cuvier
-Jocelyn Legault
-Dave Brotherstone
-Sin Thesis
-Jörn Gruël
-François-R Boyer
-Andreas Jonsson
-Ivan Radić (aka Loreia)
-Damien Gérard
+> **Note:** Atualmente reconhece arquivos com extensão php, c, cpp, cs, objc, d, java, rc, html, xml, makefile, pascal, batch, ini, nfo, asp,
+> sql, vb, javascript, css, perl, python, lua, tex, cobol, fortran,
+> bash, actionscript, nsis, tcl, lisp, scheme, asm, diff, props,
+> postscript, ruby, smalltalk, vhdl, kix, autoit, Gui4Cli, powershell,
+> caml, ada, verilog, matlab, haskell, inno, cmake, yaml,r, jsp e
+> outras.
+> 
+> 
+> Equipe de desenvolvimento No site principal do Notepad++ temos uma
+> lista de desenvolvedores dentre os quais podemos citar **Don Ho** como
+> autor e:
+
+ 1. Jens Lorenz
+ 2. Vitaliy Dovgan
+ 3. Harry
+ 4. Kyle Fleming
+ 5. Y N
+ 6. Thell Fowler
+ 7. Christian Cuvier
+ 8. Jocelyn Legault
+ 9. Dave Brotherstone
+ 10. Sin Thesis
+ 11. Jörn Gruël
+ 12. François-R Boyer
+ 13. Andreas Jonsson
+ 14. Ivan Radić (aka Loreia)
+ 15. Damien Gérard
+
+
+
 É possível também verificar em https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors uma lista de 91 contribuidores para o funcionamento do software.
 
 
